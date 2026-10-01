@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="../assets/entanglon-v2-logo-dark-bg.svg" width="120" alt="Entanglon">
+
 # Entanglon
 
 ### Architecting coherence across distributed systems.
