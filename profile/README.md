@@ -1,13 +1,23 @@
 <div align="center">
 
-<img src="../assets/entanglon-v2-logo-dark-bg.svg" width="480" alt="Entanglon">
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="../assets/entanglon-v2-logo-transparent-for-dark.svg">
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="../assets/entanglon-v2-logo-transparent-for-light.svg">
+  <img
+    src="../assets/entanglon-v2-logo-transparent-for-light.svg"
+    width="480"
+    alt="Entanglon">
+</picture>
 
 ### Architecting coherence across distributed systems.
 
 **Research · Engineering · Open Source**
 
-An independent research and engineering lab exploring problems across
-software, hardware, science, and emerging technology.
+*Applied AI tools and software built for unexplored domains.*
 
 [Website](https://entanglon.pages.dev/) · [Documentation](https://entanglon.pages.dev/documentation.html) · [GitHub](https://github.com/entanglon)
 
