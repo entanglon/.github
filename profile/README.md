@@ -9,7 +9,7 @@
     srcset="../assets/entanglon-v2-logo-transparent-for-light.svg">
   <img
     src="../assets/entanglon-v2-logo-transparent-for-light.svg"
-    width="720"
+    width="640"
     alt="Entanglon">
 </picture>
 
